@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bloody actions performed. Or, A brief and true relation of three notorious murthers committed by three bloud-thirsty men, 2. upon their own wives. The one was done in the county of Kent, in the Isle of Tenet, Decemb. last. The other was done at Islington, neere unto London, this present year, 1653. The third was done upon a major in Coven-Garden neere London. Arthur Knight and Thomas Laret was executed, March 2. 1653. This coppy was drawn up on purpose to give the world satisfaction, whereby to know in what manner the murders was committed: being the very truth, and no more but the truth.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55783</idno>
+            <idno type="STC">Wing P3355</idno>
+            <idno type="STC">ESTC R219504</idno>
+            <idno type="EEBO-CITATION">99830971</idno>
+            <idno type="PROQUEST">99830971</idno>
+            <idno type="VID">35433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2095:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bloody actions performed. Or, A brief and true relation of three notorious murthers committed by three bloud-thirsty men, 2. upon their own wives. The one was done in the county of Kent, in the Isle of Tenet, Decemb. last. The other was done at Islington, neere unto London, this present year, 1653. The third was done upon a major in Coven-Garden neere London. Arthur Knight and Thomas Laret was executed, March 2. 1653. This coppy was drawn up on purpose to give the world satisfaction, whereby to know in what manner the murders was committed: being the very truth, and no more but the truth.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Gilbertson, at the signe of the Bible in Gilt-spur-street, without New-gate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the readers and hearers" signed: Laurence Price.</note>
+                  <note>Text in black-letter.</note>
+                  <note>Wing (2nd ed.) gives format as 8⁰; height: 11.5 cm.; gathered in 8.</note>
+                  <note>Copy disbound; edges closely trimmed with slight loss of print.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35433:1"/>
+            <!-- PDF PAGE 100 -->
+            <pb facs="tcp:35433:1"/>
+            <!-- PDF PAGE 100 -->
+            <p>BLOODY <hi>ACTIONS</hi> PERFORMED.</p>
+            <p>
+               <hi>OR,</hi> A brief and true Relation of three No<g ref="char:EOLhyphen"/>torious Murthers, committed by three Bloud-thirſty men, 2. upon their own Wives.</p>
+            <p>
+               <hi>The one was done in the County of</hi> Kent, in the Iſle of Tenet, Decemb. laſt.</p>
+            <p>
+               <hi>The other was done at Iſlington, neere</hi> unto London, this preſent year, 1653.</p>
+            <p>The third was done upon a Major in Coven-Garden neere London.</p>
+            <p>Arthur Knight and Thomas Laret was exe<g ref="char:EOLhyphen"/>cuted, March 2. 1653.</p>
+            <p>
+               <hi>This Coppy was drawn up on purpoſe to</hi> give the world ſatisfaction, whereby to know in what manner the mur<g ref="char:EOLhyphen"/>ders was committed: Being the very truth, and no more but the truth.</p>
+            <p>Printed for <hi>W. Gilbertſon,</hi> at the ſigne of the Bible in Gilt-ſpur-ſtreet, without New-gate, 1653.</p>
+         </div>
+         <div type="note">
+            <pb facs="tcp:35433:2"/>
+            <!-- PDF PAGE 101 -->
+            <head>A Note of the Names of thoſe that were hanged.</head>
+            <p>HEnry Atkinſon for picking a pock<g ref="char:EOLhyphen"/>et of three ſhillings. Thomas Mor<g ref="char:EOLhyphen"/>ral for ſeverall burglaries. Richard Dove, and John Cony for Robbing the Nor<g ref="char:EOLhyphen"/>wich Poſt. William Silver for burglary. Thomas Hanſcombe for burglary. Ro<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt Woodſtock for burglary, Robert Keyes for wives and Linnen. Silveſter Stanbridge for Robbing a Majors houſe neere VVatford, and for other burgla<g ref="char:EOLhyphen"/>ries.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35433:2"/>
+            <!-- PDF PAGE 101 -->
+            <head>To the Readers and Hearers.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Conſcience is fled, and Promiſes broken, is a thing that is too well knowne in theſe our froward and diſtracted times, as it may appeare by theſe three unhumane Murtherers, which made ſlaughter of their Lawfull wedded Wives.</p>
+            <p>The manner whereof ſhall directly be here Related, to the end that all Deſpe<g ref="char:EOLhyphen"/>rate, Dangerous, and Haſty ſpirited Men may take a ſpeciall care by theſe Examples, that through the Temptati<g ref="char:EOLhyphen"/>ons of the Divell, they fall not into the like relapſe.</p>
+            <pb n="4" facs="tcp:35433:3"/>
+            <!-- PDF PAGE 102 -->
+            <p>So with my Prayers to Almighty God for all Men that will endeavour to ſerve the Lord, and keepe the Feare of God before their Eyes,</p>
+            <closer>
+               <signed>
+                  <hi>I remaine your Friend,</hi> Laurence Price. and ſo goe forward with my wofull Diſcourſe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="5" facs="tcp:35433:3"/>
+            <!-- PDF PAGE 102 -->
+            <head>Here followeth a brief and true Relation of one Maſter <hi>Spralling</hi> an Eſquire, who lived in <hi>KENT.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE World is come to ſuch a paſſe, that many men make it their common practiſe and daily paſtime to run headlong into the pitfall of miſchiefe: ſome delights in ſwearing, ſome in whoreing, ſome in drunkenneſſe. ſome into o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome into others: and ſome there be that are become ſo bloudy minded, that they make no more conſcience to kill a Neighbour, a Brother, or a wife, then they do to kill a dumb Beaſt or a Dog: As this ſad <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xample makes manifeſt.</p>
+            <p>How that in the County of <hi>Kent</hi> in the Iſle of <hi>Tenet,</hi> in the Parriſh which is called the Town of Saint <hi>Lawrance:</hi> there lived a welthy Eſquire called-Maſter <hi>Spratling</hi> by name, who delighted much in keeping of Dogs for his pleaſure.</p>
+            <pb n="6" facs="tcp:35433:4"/>
+            <!-- PDF PAGE 103 -->
+            <p>And as it is ſuppoſed, be loved his Dogs better then he loved his wife: and many times would wrangle and fall out about his Dogs, who in his rage and fury, there was none that could pacifie his wrath ſo wel as his wife could doe.</p>
+            <p>One night amongſt the reſt, being Satur<g ref="char:EOLhyphen"/>day at night, <hi>December</hi> laſt <hi>11. 1653.</hi> This Maſter <hi>Spratling</hi> came home in a madding rage, and finding ſo much fault about his dogs, that no one could tell how to qualifie his anger, in ſo much, that he made them all afraid that came neere him: at laſt his loving wiſe, with kind peſwaſtons, came unto him and deſired of him that he would be pleaſed to pray unto the Lord, and call upon him for mercy, and that he would forbeare to ſweare and to curſe; whereby he offended his Maker, and wronged his own ſoule.</p>
+            <p>But the more ſhe ſought to perſwade him the worſe he was, ſo ſwearing and calling his wife many ill names: ſaid that he would be her butcher before the morrow morning: and there withall charged his man that was then preſent witch them, to kéep his wife in hold till he went forth to unlooſe a point and came to them again: for ſaid he to his man, if thou let her goe, I will preſenily be the death of thee</p>
+            <p>The young man fearing what his Maſter would doe to him if he let his Miſtris goe,
+<pb n="7" facs="tcp:35433:4"/>
+               <!-- PDF PAGE 103 -->kept her in the roome where ſhe was, til ſuch time that his Maſter had bin forth and come in again, and this is the truth of the matter that he brought a Cord and a Cleaver with him, and ſo he bound his man hands and féet and caſt him unon the ground.</p>
+            <p>His Wife ſéeing that, ran ſpéedily to the Dore, and laying her hand on the Latch, thought to get out of the Roome and ſcape away, but he quickly ſtopt her paſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age, and with his Cleaver gave her ſuch a Chop, that he had almoſt cut off her hand at the firſt blow. whereat his wife with much patience ſpoke to him and gave him never a bad word, but praid him that he would be ſo good as to let her fetch a Chirurgeon to cure Her Wound and all things ſhould be well: No ſaid he, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> can cure you my ſelfe; And with that word he gave her ſuch a terrible ſtroke with the Cleaver, that be clove her head aſunder; when he bad cut her, and mortifyed her, that the like was never ſéen, and that her bloud ran all about the Roome: he took a Veſſell which he had, and laded up the Bloud of his Wife, and put it in the Veſſell. After that he went into another Roome where his Dogs were, who when they had ſmelt the ſent of the bloud, they fell a bawling and barking at him in a moſt wonderous ſort, as if they had been ſenſible of the Barbarous murther which he had done to his wife.</p>
+            <pb n="8" facs="tcp:35433:5"/>
+            <!-- PDF PAGE 104 -->
+            <p>But to make ſhort diſpatch, he kild all his Dogs, and threw the Carkaſe of his dead Wife amongſt his dead Dogs: then he took his Dogs blould and mingled it with his Wifes bloud, and went to the young man which lay bound, and waſht his face and his owne hands in the bloud, and ſprinkled bloud upon the walls, and upon every thing that was in the Roome: when he had ſo done, he unbound his Man, and told him that he had given him his life.</p>
+            <p>Laſt of all, he tooke his Cleaver in one hand a Piſtol charged, and ſo ſtood on his Guard all day on Sunday, till ſuch time that the Deputy of the Iſland came and diſarmed him, and brought him to <hi>Sandw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tch</hi> Priſon, where he now remameth: His Daug<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter and other Servants which were in the Houſe where he murthered his Wife, had o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kt up themſelves in another Roome, and by that meanes they ſavd their Lives through Gods Mercy.</p>
+            <p>Now ſince Maſter <hi>Spratling</hi> hath beene in the Priſon in <hi>Sandwitch</hi> Goale ſome cer<g ref="char:EOLhyphen"/>taine people that are of his acquaintance, have been to talke and diſcourſe with him: where as one asking him whether he was not ſorry for that he had ſo bloudily murthered his Wife; He anſwered, that if it were to doe againe he would doe it: and all that he was ſorry for, was becauſe he had kild no
+<pb n="9" facs="tcp:35433:5"/>
+               <!-- PDF PAGE 104 -->more of them.</p>
+            <p>The Lord in mercy grant that all Men that goes by the name of Chriſtians, may be<g ref="char:EOLhyphen"/>have themſelves as Chriſtans oft to doe, ſo that they may not take delight in ſpilling in<g ref="char:EOLhyphen"/>nocent bloud,</p>
+            <p>
+               <hi>AMEN.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Here followeth another bloudy Example, which is full as bad or worſe then that which was done in KENT.</head>
+            <p>IN the Parriſh of <hi>Iſlington</hi> néere unto <hi>London</hi> there dwelt a man whoſe name was <hi>Thomas<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Laret</hi> a Carpenter by Trade, he having marryed a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe which was known to be a very honeſt woman, and one that laboured and took great paines for her living, and oftertimes would put the money in his hand that ſhe got about at good
+<pb n="10" facs="tcp:35433:6"/>
+               <!-- PDF PAGE 105 -->mens Houſes by ſcowring, and waſhing and ſuch like labours, yet he vild wretch would beat her, and kick her, and pinch her, and beat her with his fiſts about the head, ſo that many times when he came home in his divelliſh fits, he would beat her with Staffe, or Club, or any thing the that came next to his hand, till he had made her all of a gore bloud.</p>
+            <p>His commen courſe of life was to dominéer and vapour in all houſes to Swagger, drink, roare and fight, and would curſe and ſweare, as if be would teare down the Heavens, and when he had brought himſelfe out of quiet, he would come home and abuſe his poore Wife in ſuch a horrible manner, ſhat it would make a cender heart to bleed, to thinke of the Tor<g ref="char:EOLhyphen"/>ments that the poore Creature <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dures: and although that many times his honeſt Neigh<g ref="char:EOLhyphen"/>bours would, and did gently and méekly chide him, and give good Counſel, he would ſweare and curſe at them, and deale the worſe with her: Saying, if he cripled her, he muſt keep her, if he kild her, he muſt be hang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for her: with theſe and many ſuch unreaſonable un<g ref="char:EOLhyphen"/>ſeaſonable anſwers, he would ſend them pack<g ref="char:EOLhyphen"/>ing.</p>
+            <p>But now behold what after came to paſſe? the poore woman which is here ſpoken off, having been amongſt ſome of her friends, and received ſome ſmall parſell of money for work which ſhe had done, and hoping to pleaſe her
+<pb n="11" facs="tcp:35433:6"/>
+               <!-- PDF PAGE 105 -->froward Husband, ſhe bought a Sheeps head to make him ſome Pottage againſt he came home but all that ſhe did or could doe, could not prebaile, for he having been amongſt ſame of his back Companions, came home in a deſperrts rage, idtending to kill his wife, and taking a Stoole in his hand, he ſtruck her on the head till ſhe fell to the ground: then drawing forth a Toole out of his Caſe, which was like unto a Knife, he ſtab'd and gave her many deadly wouds, whilſt ſhe cry'd out in this mournfull manner, ſaying, good Huſ<g ref="char:EOLhyphen"/>band doe not kill me, I pray you ſpare my life, even for the Lords ſake, conſider déere Husband that I am with Child, and not a<g ref="char:EOLhyphen"/>bove ſixe weeks to goe of my time, and thére<g ref="char:EOLhyphen"/>fore I pray you if you will not ſpare me for my ore ſake, yet ſpare me for your Childes ſake which is in my wombe, yet nothing could move the mercileſſe Villaine to remorſe, he never left ſtabing and ſtriking till he had wounded her to death: one of the Neighbors that dwelt next to the place ſtood at the win<g ref="char:EOLhyphen"/>dow whilſt he was beating his wife, and hear<g ref="char:EOLhyphen"/>ing her make a pitifull moane, durſt not goe into the houſe, but cal'd to him as ſhe ſtood and bad him not to kill his wiſe, but he gave her ſuch a villanous anſwer which made her runne away for feare he ſhould kill her alſo.</p>
+            <p>A his was done on wedneſday morning, <hi>Ianua<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y 12.</hi> the next morning he went to buy
+<pb n="12" facs="tcp:35433:7"/>
+               <!-- PDF PAGE 106 -->her a Coffin, thinking to bury his Wife with ſpéed, and ſo to colour the matter that his Villany ſhould not be known: But before he could bring the buſineſſe to paſſe, he was by meanes of the Wom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n that heard her cry, and another of the Neſghbors taken and brough before the Iuſtice of the Peace.</p>
+            <p>And being examined the was by the Cvi<g ref="char:EOLhyphen"/>dence found guilty and was ſent by Order of Law unto Newgate Priſon, there to re<g ref="char:EOLhyphen"/>maine till the next Seſſions: For its thought that others that had a hand in the murthering of the Woman ſhall then come to try all with him.</p>
+            <p>And now to conclude, the Woman that was murthered had above thirty grievous wounds and ſtobs in her B<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y, ſome in the Head, and Neck ſome in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ides, and un<g ref="char:EOLhyphen"/>der the Arme pits ſome throug the Bowe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and Secret part. The like Villa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous Act, all them that ſaw it, ſaid that they never ſaw the like before.</p>
+            <p>That this is true, there néed no further witneſſe, for there went more then a thouſand people out of <hi>London</hi> to behold the Corps of the murthered Woman before ſhe was bu<g ref="char:EOLhyphen"/>ried. The Lord ſend all honeſt Women bet<g ref="char:EOLhyphen"/>ter Husbands.</p>
+            <p>Thus have I laid open to the view of the world, ſuch matters of Murder, that if it were not too wel known to be true, and that
+<pb n="13" facs="tcp:35433:7"/>
+               <!-- PDF PAGE 106 -->it was done ſo néere at hand it would never be believed.</p>
+            <p>It is ſaid that ſince the time was limited, that every one might uſe their own conſcience, that it is lawful for every one to doe as they liſt: but thoſe things are contrary carryed: for all though there be liberty of Conſcience allowed in ſome matters, there is no liberty alowed to doe Murther.</p>
+            <p>And although the Divel hath taught his Deciples ſuch a Leſſon that they care not who they kill, yet Gods word ſaith plainly, thou ſhalt doe no murther.</p>
+            <p>And now &amp; would have all wilfull and de<g ref="char:EOLhyphen"/>ſperate men and women to feare God and take heed what they doe. For if a man have the Conſcience to kil his wife: or if a woman have no more conſcience but to kil her Hus<g ref="char:EOLhyphen"/>band, the Law wil procéed againſt them: and whoſoever kils his VVife ſhall be hanged for his wife: and although theſe two vile VVr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ches have not as yet had their ful try<g ref="char:EOLhyphen"/>all. yet certainly they are kept faſt in Priſon till ſuch time that their triall is to be acted, and then no doubt but they ſhall be ſure to have their deſert: and it is verily ſuppoſed that one-of them, if not both is to be hangd in Chaines, God give them grace to call for Mercy, and to repent them of their evill Actions.</p>
+            <p>And now to draw to a concluſton, I leave it to the diſcretion of all conſciencious people to iudge of the matter, whether it be fitting
+<pb facs="tcp:35433:8"/>
+               <!-- PDF PAGE 107 -->for any man to goe abroad and make himſelfe drunke amongſt evill and perverſe compani<g ref="char:EOLhyphen"/>ons, and afterwards come home in an antick humor and call his wife whore and bi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, to ſweare and to curſe, to kick and to ſpurne, to cut, ſtrike or ſtab his harmeleſſe wife, as tis known that <hi>Thomas Laret</hi> did oftentimes doe.</p>
+            <p>It is written in the ſecond Chapter of the Book of <hi>Geneſis,</hi> that a man for that cauſe ſhall forſake both his Father and Mother, and all other Friends and Kindred and cleave to his wife, and they two ſhall be one fleſh, <hi>Gen. 2.23, 24.</hi>
+            </p>
+            <p>I hope there is no man nor woman that is called by the name and title of a Chriſtian, ſo wicked as to thinke the word of God not to be true: moroo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, if we believé Gods Word to be true, that a man and his wife when they are marryed together are termed to be both one fleſh: what man will be ſo wicked as to ſtrike, and beate, and ban, and curſe his own fleſh which is his lawful &amp; abſolute wife: again, what woman, if ſhe beliedes in God wil goe about to wrong her Husband, and to be an of<g ref="char:EOLhyphen"/>fence to him whom ſhe oft to be a helper, <hi>Gen. 3.</hi>
+            </p>
+            <p>But this which is here ſet downe is printed to the end for Men and Women not onely to heare it and looke upon, but alſo to conſider of, and to conclude with the old Proverbe, happe are they that can take warning by other folks harmes.</p>
+            <pb n="15" facs="tcp:35433:8"/>
+            <!-- PDF PAGE 107 -->
+            <p>
+               <hi>Thomas Laret for murther<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of his wife was a judgd to be hanged on a gibbet at Iſling<g ref="char:EOLhyphen"/>ton neer unto the place wherere he did the murther.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <head>Here followeth another bloudy murder com<g ref="char:EOLhyphen"/>mitted on the body of Maior Furnifall a gentleman of good rank and quality</head>
+            <p>A worthy gentleman of good account cald by the name of Maior <hi>Furnifall</hi> which had formerly been a Commander in the wars, in which time he behav'd himſelf ſo well, that he gaind the love of all ſorts of people, as wellin the City as the Country, and whereſoever he came be had a diligent care that his ſouldi<g ref="char:EOLhyphen"/>ers ſhould do no wrong: yet we may ſée that the beſt of us all can no ways prevent danger: but by heavenly providence, as may appeare by this gentleman here ſpoken of, for one day he having been merry with ſome of his friends, his chance was to light on two of his mortall enemies, being brothers in wickednes for they met with Maior <hi>Furnifall,</hi> ſaluted him ſo they betrayd him with ſaying, God ſave you noble ſir, and after their falſe friendſhip, they deſired his company to drink a cup of Wine or Béere: which Maior <hi>Furnifall</hi> conſented unto ſo they went all thrée together into a Cooks houſe to drink, which houſe is in <hi>Ruſ<g ref="char:EOLhyphen"/>ſel-ſtreet</hi> in <hi>Coven-Garden</hi> next unto the roſe Tavern, the Cook and his Wife are known to be very honeſt people, and have the good will and love of all their neighbors, the name of the Cook is <hi>Edward Bowers:</hi> the two bro<g ref="char:EOLhyphen"/>thers which are here ſpoken of, one of their names was <hi>Arthor Knight,</hi> and the other his
+<pb n="16" facs="tcp:35433:9"/>
+               <!-- PDF PAGE 108 -->his name was <hi>Thomas Knight,</hi> they having gotten the Maior in a room alone, without any one to <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d or aſſiſt him, <hi>Thomas Knight</hi> held faſt the Chamber doore whilſt his brother <hi>Ar<g ref="char:EOLhyphen"/>thor Knight</hi> in a moſt bloudy manner ful up<g ref="char:EOLhyphen"/>on the Maior and wounded him with his knife, ſtabd him in ſeverall places, cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> noſe in a moſt grievous manner, and hauling of him down ſtamp upon with his feet till he left him for almoſt dead, which having done, took the money out of his pocket and ſo run forth into the ſtreet ſwe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ring god d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mme, that now they were throughly revenged, the Cook when he ſaw what was done, followed after them thinking to have ſtaid them, <hi>Ar<g ref="char:EOLhyphen"/>thur Knight</hi> began to draw his Sword, and ſwoore he would do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as much to him, where<g ref="char:EOLhyphen"/>upon the Cook manfully ran to him and took a Weapon, and by that meanes he eſcaped with life, ſo the Cooks wife being a good ſpiri<g ref="char:EOLhyphen"/>rited woman, ventured her life in her Hus<g ref="char:EOLhyphen"/>bands behalfe, and held one of the Brothers or elſe her husband might have loſt his life. But to conclude the Gentleman dyed with the wounds and bruſes which they had given him, one of the Brothers is fled and gone, the other by order of Law condemnd to dye, and to be hang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d upon a Gibbet néere unto the place where the Murther was committed: God in his mercy give all men grace to take heed what company they come into, for in theſe times a man can hardly tell who to truſt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35433:9"/>
+            <!-- PDF PAGE 108 -->
+         </div>
+      </body>
+   </text>
+</TEI>
